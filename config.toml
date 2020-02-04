@@ -1,0 +1,4 @@
+baseURL = "https://pcm9881.github.io"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "simple"
